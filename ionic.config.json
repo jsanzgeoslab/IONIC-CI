@@ -1,5 +1,7 @@
 {
   "name": "IONIC-CI",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
